@@ -2,9 +2,7 @@ const path = require('path');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  distDir: 'app/.next', // 👈 CHANGE THIS LINE TO MATCH THIS EXACTLY
   productionBrowserSourceMaps: false,
-  outputFileTracingRoot: path.join(__dirname, '../'),
   typescript: {
     ignoreBuildErrors: false,
   },
