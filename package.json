@@ -3,7 +3,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build && mkdir -p \"app/.next\" && mkdir -p \"app/ .next\" && cp -r .next/* \"app/.next/\" 2>/dev/null || true && cp -r .next/* \"app/ .next/\" 2>/dev/null || true",
+    "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
