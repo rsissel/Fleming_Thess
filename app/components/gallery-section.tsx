@@ -19,6 +19,7 @@ const images = [
   { src: '/images/10-stairs-up-bg.jpg', alt: 'Wooden staircase leading to loft', label: 'Staircase' },
   { src: '/images/11-bedroom.jpg', alt: 'Loft bedroom with large bed and wardrobe', label: 'Bedroom' },
   { src: '/images/12-stairs-down.jpg', alt: 'View from the loft looking down', label: 'Loft View' },
+  { src: '/images/13-desk.jpg', alt: 'Desk workspace', label: 'Desk' },
   { src: '/images/waterfront-1.jpg', alt: 'Thessaloniki waterfront sunset with White Tower', label: 'Waterfront' },
   { src: '/images/waterfront-2.jpg', alt: 'Thessaloniki seafront promenade', label: 'Waterfront' },
   { src: '/images/waterfront-3.jpg', alt: 'Thessaloniki waterfront at dusk with lights', label: 'Waterfront' },
