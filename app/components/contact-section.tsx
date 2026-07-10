@@ -59,7 +59,7 @@ export default function ContactSection() {
                 </div>
                 <div>
                   <p className="text-xs text-[#7a756d] mb-0.5">Address</p>
-                  <p className="font-semibold text-[#2d2a24] text-sm">Edmondou Rostan 14, Thessaloniki 546 41, Greece</p>
+                  <p className="font-semibold text-[#2d2a24] text-sm">Edmondou Rostan 29, Thessaloniki 546 41, Greece</p>
                 </div>
               </div>
             </div>
