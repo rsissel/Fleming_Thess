@@ -32,8 +32,8 @@ export default function ContactSection() {
           <div className="bg-[#faf7f2] rounded-2xl p-8 md:p-12 shadow-md">
             {/* Host info */}
             <div className="text-center mb-8">
-              <div className="w-20 h-20 bg-[#d4a843]/20 rounded-full flex items-center justify-center mx-auto mb-4">
-                <span className="font-display text-2xl font-bold text-[#b8860b]">S</span>
+              <div className="w-20 h-20 rounded-full mx-auto mb-4 overflow-hidden">
+                 <img src="/images/slavica.jpg" alt="Slavica, your host" className="w-full h-full object-cover" />
               </div>
               <h3 className="font-display text-xl font-bold text-[#2d2a24] mb-1">Slavica</h3>
               <p className="text-[#7a756d] text-sm">Your Host</p>
