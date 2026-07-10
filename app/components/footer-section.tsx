@@ -10,7 +10,7 @@ export default function FooterSection() {
           <span className="font-display font-semibold text-white text-sm">Fleming Residence</span>
         </div>
         <p className="text-xs text-white/50">
-          Edmondou Rostan 14, Thessaloniki 546 41, Greece
+          Edmondou Rostan 29, Thessaloniki 546 41, Greece
         </p>
         <p className="text-xs text-white/40">
           &copy; 2026 Fleming Residence. All rights reserved.
